@@ -1,4 +1,9 @@
-### Hi there 👋
+### I'm Seth Brown, a Full Stack Engineer=
+<hr/>
+
+🎓 Front End Graduate from Nucamp
+🎓 Full Stack Graduate Nucamp
+
 
 <!--
 **wsethbrown/wsethbrown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
