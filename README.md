@@ -2,6 +2,7 @@
 <hr/>
 
 🎓 Front End Graduate from Nucamp
+<br/>
 🎓 Full Stack Graduate Nucamp
 
 
