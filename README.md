@@ -1,4 +1,4 @@
-### I'm Seth Brown, a Full Stack Engineer=
+### I'm Seth Brown, a Full Stack Engineer
 <hr/>
 
 🎓 Front End Graduate from Nucamp
