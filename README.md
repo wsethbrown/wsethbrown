@@ -1,12 +1,13 @@
 ### I'm Seth Brown, a Full Stack Engineer
 <hr/>
 
+💻 Backend Engineer for [Recurly](https://recurly.com/) <br/>
 🎓 Front End Graduate from Nucamp
 <br/>
 🎓 Full Stack Graduate Nucamp
 
 
-- 🔭 I’m currently working on a web app for Whiskey Share Society (https://github.com/wsethbrown/whiskey-share-society)
+- 🔭 I’m currently working on a web app for [Whiskey Share Society](https://github.com/wsethbrown/whiskey-share-society)
 - 🌱 I’m currently learning Golang.
 - 📫 How to reach me: wseth.brown@icloud.com
 - ⚡ Fun fact: I got into programming through MUDs (basically a text-based MMO genre from the 80s)
